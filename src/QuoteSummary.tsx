@@ -14,7 +14,7 @@ const QuoteSummary = () => {
             <div><label className=' font-semibold flex justify-start'>Amount to Save</label><p>#200,000</p></div>
         </div>
         <div className='flex gap-10 mt-10'>
-            <div><label className='flex justify-start'>Insurance Start Date</label><p className=' flex justify-start'>13-6-2023</p></div>
+            <div><label className='flex justify-start'>Sum Assured</label><p className=' flex justify-start'>100,000</p></div>
             <div><label>Payment Frequency</label><p>Annualy</p></div>
         </div>
 
